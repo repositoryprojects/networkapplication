@@ -1,0 +1,39 @@
+G:\Adaptive Security\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.exe
+G:\Adaptive Security\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.pdb
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmLogin.resources
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmMain.resources
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.Properties.Resources.resources
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.exe
+G:\Adaptive Security\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.pdb
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.exe
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.pdb
+G:\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.exe
+G:\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.pdb
+G:\NetworkManager\NetworkManager\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmLogin.resources
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmMain.resources
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.Properties.Resources.resources
+G:\NetworkManager\NetworkManager\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\NetworkManager\NetworkManager\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\NetworkManager\NetworkManager\bin\Debug\Bl_NetworkManager.dll
+G:\NetworkManager\NetworkManager\bin\Debug\El_NetworkManager.dll
+G:\NetworkManager\NetworkManager\bin\Debug\Bl_NetworkManager.pdb
+G:\NetworkManager\NetworkManager\bin\Debug\El_NetworkManager.pdb
+G:\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmScanConnectedDevices.resources
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.exe
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive Security.pdb
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.exe
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\Adaptive Security.pdb
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\Bl_NetworkManager.dll
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\El_NetworkManager.dll
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\Bl_NetworkManager.pdb
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\bin\Debug\El_NetworkManager.pdb
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\NetworkManager.csprojResolveAssemblyReference.cache
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmLogin.resources
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmMain.resources
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.frmScanConnectedDevices.resources
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\Adaptive_Security.Properties.Resources.resources
+C:\Users\Puneet\Desktop\NetworkManager21Feb530pm\NetworkManager\NetworkManager\obj\x86\Debug\NetworkManager.csproj.GenerateResource.Cache

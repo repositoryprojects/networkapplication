@@ -1,0 +1,5 @@
+G:\NetworkManager\El_NetworkManager\bin\El_NetworkManager.dll
+G:\NetworkManager\El_NetworkManager\bin\El_NetworkManager.pdb
+G:\NetworkManager\El_NetworkManager\obj\Debug\ResolveAssemblyReference.cache
+G:\NetworkManager\El_NetworkManager\obj\Debug\El_NetworkManager.dll
+G:\NetworkManager\El_NetworkManager\obj\Debug\El_NetworkManager.pdb
